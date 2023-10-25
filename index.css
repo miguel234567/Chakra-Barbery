@@ -1,0 +1,17 @@
+#header img {
+    width: 80px;
+}
+
+
+#footer {
+    background-color: black;
+
+}
+ #footer a{
+    color: antiquewhite;
+
+ }
+ #card h-10 {
+    width: 430px;
+    height: 300px;
+ }
